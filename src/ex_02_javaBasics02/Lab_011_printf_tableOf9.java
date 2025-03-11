@@ -3,6 +3,7 @@ package ex_02_javaBasics02;
 public class Lab_011_printf_tableOf9 {
     public static void main(String[] args) {
         byte table = 9;
+        // Test
 
         System.out.printf("%d * 1 = 9",table);
         System.out.println();
