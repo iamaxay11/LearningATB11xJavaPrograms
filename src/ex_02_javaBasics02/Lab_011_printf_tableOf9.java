@@ -5,6 +5,9 @@ public class Lab_011_printf_tableOf9 {
         byte table = 9;
         // Test
 
+
+
+
         System.out.printf("%d * 1 = 9",table);
         System.out.println();
         System.out.printf("%d * 2 = %d",table,table*2);
