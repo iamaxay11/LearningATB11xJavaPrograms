@@ -1,6 +1,6 @@
 package ex_06_TernaryOperator;
 
-public class ex_032_MaxOf3Num {
+public class Lab_032_MaxOf3Num {
     public static void main(String[] args) {
         int a = 10, b = 25, c = 15;
 

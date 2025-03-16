@@ -1,6 +1,6 @@
 package ex_06_TernaryOperator;
 
-public class ex_029_ternaryOperator {
+public class Lab_029_ternaryOperator {
     public static void main(String[] args) {
 
         // condition ? expression1 : expression2; -> If True expression1, If false expression2

@@ -1,6 +1,6 @@
 package ex_06_TernaryOperator;
 
-public class ex_030_EvenOdd {
+public class Lab_030_EvenOdd {
 
     public static void main(String[] args) {
 

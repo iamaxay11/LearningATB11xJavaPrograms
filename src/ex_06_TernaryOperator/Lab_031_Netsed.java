@@ -1,6 +1,6 @@
 package ex_06_TernaryOperator;
 
-public class ex_031_Netsed {
+public class Lab_031_Netsed {
     public static void main(String[] args) {
         int num = -5;
 
