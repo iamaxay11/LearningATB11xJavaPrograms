@@ -27,15 +27,13 @@ Use an if-else statement to classify the triangle
 
         if((side1 == side2) && (side1 == side3)){
             System.out.println("Given Triangle is Equilateral");
-        } else if ((side1 == side2) || (side1 == side3)){
+
+        } else if ((side1 == side2) || (side1 == side3) || (side2 == side3)){
             System.out.println("Given Triangle is Isosceles");
+
         } else{
             System.out.println("Given Triangle is Scalene");
         }
-
-
-
-
 
     }
 }
