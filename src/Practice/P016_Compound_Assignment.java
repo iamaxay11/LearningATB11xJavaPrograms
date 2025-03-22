@@ -8,5 +8,11 @@ public class P016_Compound_Assignment {
         int a = 10;
         int b = 25;
 
+        System.out.println(a+=5);
+        System.out.println(a-=5);
+        System.out.println(a*=5);
+        System.out.println(a/=5);
+        System.out.println(a%=5);
+
     }
 }
