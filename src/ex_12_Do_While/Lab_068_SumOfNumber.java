@@ -1,4 +1,4 @@
-package ex_012_Do_While;
+package ex_12_Do_While;
 import java.util.Scanner;
 public class Lab_068_SumOfNumber {
     public static void main(String[] args) {

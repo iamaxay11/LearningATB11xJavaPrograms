@@ -1,4 +1,4 @@
-package ex_014_Strings;
+package ex_14_Strings;
 // toUpperCase() , toLowerCase() , length()
 public class Lab_078_String_Functions_01 {
     public static void main(String[] args) {

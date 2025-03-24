@@ -1,5 +1,5 @@
-package ex_013_Functions;
-import java.util.*;
+package ex_13_Functions;
+
 public class Lab_070_Functions {
     public static void main(String[] args) {
         int maximum = Math.max(7987,568);

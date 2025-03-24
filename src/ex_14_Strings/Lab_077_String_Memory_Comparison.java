@@ -1,4 +1,4 @@
-package ex_014_Strings;
+package ex_14_Strings;
 
 public class Lab_077_String_Memory_Comparison {
     public static void main(String[] args) {

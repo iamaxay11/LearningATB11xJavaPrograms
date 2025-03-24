@@ -1,4 +1,4 @@
-package ex_014_Strings;
+package ex_14_Strings;
 // charAt() , indexOf(ch), concat() , trim()
 public class Lab_079_String_Functions_02 {
     public static void main(String[] args) {

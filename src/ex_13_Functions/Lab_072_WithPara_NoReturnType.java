@@ -1,4 +1,4 @@
-package ex_013_Functions;
+package ex_13_Functions;
 // Function With Parameters and No Return Type
 public class Lab_072_WithPara_NoReturnType {
     static void add(int a, int b) {

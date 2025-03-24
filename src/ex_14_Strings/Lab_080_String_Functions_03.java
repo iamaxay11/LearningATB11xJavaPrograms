@@ -1,4 +1,4 @@
-package ex_014_Strings;
+package ex_14_Strings;
 // substring(), replace() , contains()
 public class Lab_080_String_Functions_03 {
     public static void main(String[] args) {

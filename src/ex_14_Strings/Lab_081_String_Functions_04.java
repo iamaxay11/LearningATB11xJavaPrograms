@@ -1,4 +1,4 @@
-package ex_014_Strings;
+package ex_14_Strings;
 // split() , startsWith(), endsWith(), compareTo()
 public class Lab_081_String_Functions_04 {
     public static void main(String[] args) {
